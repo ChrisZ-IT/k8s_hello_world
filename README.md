@@ -16,4 +16,4 @@ hello world project while I learn k8s
 
 
 # to-do
-  - Get ssl/tls working for http
+  - Get ssl/tls working for https
